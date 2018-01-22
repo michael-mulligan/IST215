@@ -4,3 +4,9 @@ C:\Users\NHTI\Documents\Visual Studio 2017\Projects\Lab1-LINQInvoice\bin\Debug\L
 C:\Users\NHTI\Documents\Visual Studio 2017\Projects\Lab1-LINQInvoice\obj\Debug\Lab1-LINQInvoice.csprojResolveAssemblyReference.cache
 C:\Users\NHTI\Documents\Visual Studio 2017\Projects\Lab1-LINQInvoice\obj\Debug\Lab1-LINQInvoice.exe
 C:\Users\NHTI\Documents\Visual Studio 2017\Projects\Lab1-LINQInvoice\obj\Debug\Lab1-LINQInvoice.pdb
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab1-LINQInvoice\bin\Debug\Lab1-LINQInvoice.exe.config
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab1-LINQInvoice\obj\Debug\Lab1-LINQInvoice.exe
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab1-LINQInvoice\obj\Debug\Lab1-LINQInvoice.pdb
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab1-LINQInvoice\bin\Debug\Lab1-LINQInvoice.exe
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab1-LINQInvoice\bin\Debug\Lab1-LINQInvoice.pdb
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab1-LINQInvoice\obj\Debug\Lab1-LINQInvoice.csprojResolveAssemblyReference.cache

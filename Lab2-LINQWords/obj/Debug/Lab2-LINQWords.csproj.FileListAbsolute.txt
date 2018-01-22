@@ -1,0 +1,6 @@
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab2-LINQWords\bin\Debug\Lab2-LINQWords.exe.config
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab2-LINQWords\bin\Debug\Lab2-LINQWords.exe
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab2-LINQWords\bin\Debug\Lab2-LINQWords.pdb
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab2-LINQWords\obj\Debug\Lab2-LINQWords.csprojResolveAssemblyReference.cache
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab2-LINQWords\obj\Debug\Lab2-LINQWords.exe
+C:\Users\Michael Mulligan\Documents\GitHub\IST215\Lab2-LINQWords\obj\Debug\Lab2-LINQWords.pdb
